@@ -1,4 +1,4 @@
-# arpitranakoti
+# Arpit_Ranakoti
 # 💫 About Me:
 I'm currently pursuing BCA from Graphic Era Hill University ,dehradun,uttarakhand . <br>
 I'm currently learning web development
