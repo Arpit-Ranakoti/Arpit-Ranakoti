@@ -1,7 +1,7 @@
 # Arpit_Ranakoti
 # 💫 About Me:
 I'm currently pursuing MCA from Graphic Era Hill University ,dehradun,uttarakhand . <br>
-I'm currently learning GEN AI 
+I'm currently learning Docker
 
 
 ## 🌐 Socials:
